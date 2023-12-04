@@ -1,0 +1,17 @@
+A = alternativa letra A
+
+B = O valor de Y é igual a 4.
+
+C = V,F,F
+
+D = Não há nada de errado no codigo, o ponteiro p recebe 
+    o endereço de memória da variavel x corretamente.
+
+E = 9, pois os ponteiros na subtração conseguem pegar o conteudo do indice do vetor.
+
+F: pc1 = 1000, pc2 = 1001, pc3 = 1005, pc4 = 1000.
+
+
+
+
+
